@@ -1,7 +1,7 @@
 # Docker_Tutorials
 ## 📌 Tutorial 2 Overview
 
-### This project demonstrates <span style="color:green"> ow to containerize a simple web application using Docker. </span>  The application displays academic and personal details using an HTML page served through a Flask web server. The main goal is to understand Docker fundamentals such as
+ This project demonstrates <span style="color:green"> ow to containerize a simple web application using Docker. </span>  The application displays academic and personal details using an HTML page served through a Flask web server. The main goal is to understand Docker fundamentals such as
      ▪️ image creation
      ▪️ container execution
      ▪️ image tagging
